@@ -6,3 +6,6 @@ Solve the last 25 feet problem for finding small mobile items like pets or drone
 1. GPS and cell update for last know location
 2. dead reckoning on accelerometer
 3. short range radio for the final distance
+
+Interesting sources:
+https://medium.com/supplyframe-hardware/bluetooth-indoor-positioning-and-asset-tracking-solutions-8c78cae0a03
